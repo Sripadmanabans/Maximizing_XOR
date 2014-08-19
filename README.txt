@@ -1,0 +1,1 @@
+This is my solution for the Maximizing XOR problem from HackerRank
